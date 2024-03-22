@@ -17,4 +17,4 @@ You can find in this repository :
 The data used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/parthplc/medical-image-dataset).
 
 ## Contributors
-This project was a collaborative effort between myself and my classmate, Rayhane Ben Youssef.
+This project was a collaborative effort between myself and my classmate, Rayhan Ben Youssef.
